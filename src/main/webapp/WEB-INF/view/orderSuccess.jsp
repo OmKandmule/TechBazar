@@ -209,7 +209,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2024 TechBazar. All Rights Reserved.</p>
+            <p>&copy; 2025 TechBazar. All Rights Reserved.</p>
         </div>
     </footer>
 </body>
